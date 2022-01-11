@@ -30,7 +30,7 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Nischhal3)
+![github](https://github-readme-stats.vercel.app/api?username=Nischhal3)
 
 [instagram]: https://www.instagram.com/nischhal_s/
 [linkedin]: https://www.linkedin.com/in/nischhal-shrestha-0616355b/?msgControlName=reply_to_sender&msgConversationId=2-OWU3MDlhODItNWU5Ny00YTRiLWFjNDAtZjFjMzlhNDQxOGQ3XzAxMA%3D%3D&msgOverlay=true
